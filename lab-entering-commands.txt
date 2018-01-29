@@ -171,5 +171,5 @@ What is the command, flag, argument, and prompt?
 ----------
 flag = -a
 argument = Desktop
-prompt = ls
-command = $
+prompt = $
+command = ls
